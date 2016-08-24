@@ -6,9 +6,9 @@ color:
   saturation: 0.7374237943440676
   rhythmicContrast: 0.7471043351106346
   brandColors:
-    - '#14100F'
-    - '#515546'
-    - '#004A57'
-    - '#DCD4D2'
-    - '#85826F'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Field
