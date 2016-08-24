@@ -1,0 +1,14 @@
+layout_spectrum: 0.6233330841641873
+typography_spectrum: 0.5348332764115185
+color:
+  brandStrength: 0.9861281253397465
+  lightness: 0.7915987635497004
+  saturation: 0.7374237943440676
+  rhythmicContrast: 0.7471043351106346
+  brandColors:
+    - '#14100F'
+    - '#515546'
+    - '#004A57'
+    - '#DCD4D2'
+    - '#85826F'
+name: Field
